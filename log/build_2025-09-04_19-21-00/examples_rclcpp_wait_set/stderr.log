@@ -1,0 +1,21 @@
+[01m[K/home/gobind/ros2_ws/src/examples/rclcpp/wait_set/src/wait_set_topics_and_timer.cpp:[m[K In function ‘[01m[Kint32_t main(int32_t, char**)[m[K’:
+[01m[K/home/gobind/ros2_ws/src/examples/rclcpp/wait_set/src/wait_set_topics_and_timer.cpp:76:42:[m[K [01;31m[Kerror: [m[Kno matching function for call to ‘[01m[Krclcpp::TimerBase::execute_callback(bool&)[m[K’
+   76 |           [01;31m[Kone_off_timer->execute_callback(data)[m[K;
+      |           [01;31m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~[m[K
+In file included from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/callback_group.hpp:30[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/any_executable.hpp:20[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/memory_strategy.hpp:25[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/memory_strategies.hpp:18[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executor_options.hpp:20[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executor.hpp:37[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executors/multi_threaded_executor.hpp:25[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executors.hpp:21[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/rclcpp.hpp:155[m[K,
+                 from [01m[K/home/gobind/ros2_ws/src/examples/rclcpp/wait_set/src/wait_set_topics_and_timer.cpp:17[m[K:
+[01m[K/opt/ros/humble/include/rclcpp/rclcpp/timer.hpp:108:3:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Kvirtual void rclcpp::TimerBase::execute_callback()[m[K’
+  108 |   [01;36m[Kexecute_callback[m[K() = 0;
+      |   [01;36m[K^~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/humble/include/rclcpp/rclcpp/timer.hpp:108:3:[m[K [01;36m[Knote: [m[K  candidate expects 0 arguments, 1 provided
+gmake[2]: *** [CMakeFiles/wait_set_topics_and_timer.dir/build.make:76: CMakeFiles/wait_set_topics_and_timer.dir/src/wait_set_topics_and_timer.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:341: CMakeFiles/wait_set_topics_and_timer.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

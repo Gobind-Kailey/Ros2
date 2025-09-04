@@ -1,0 +1,35 @@
+[0.066s] Invoking command in '/home/gobind/ros2_ws/build/examples_rclcpp_minimal_composition': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gobind/ros2_ws/install/ros2_course_python:/opt/ros/humble /usr/bin/cmake --build /home/gobind/ros2_ws/build/examples_rclcpp_minimal_composition -- -j16 -l16
+[4.456s] [35m[1mConsolidate compiler generated dependencies of target composition_nodes[0m
+[4.456s] [ 33%] Built target composition_nodes
+[4.456s] [35m[1mConsolidate compiler generated dependencies of target composition_publisher[0m
+[4.456s] [35m[1mConsolidate compiler generated dependencies of target composition_composed[0m
+[4.459s] [35m[1mConsolidate compiler generated dependencies of target composition_subscriber[0m
+[4.460s] [ 55%] Built target composition_publisher
+[4.460s] [ 77%] Built target composition_subscriber
+[4.460s] [100%] Built target composition_composed
+[4.603s] Invoked command in '/home/gobind/ros2_ws/build/examples_rclcpp_minimal_composition' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gobind/ros2_ws/install/ros2_course_python:/opt/ros/humble /usr/bin/cmake --build /home/gobind/ros2_ws/build/examples_rclcpp_minimal_composition -- -j16 -l16
+[4.603s] Invoking command in '/home/gobind/ros2_ws/build/examples_rclcpp_minimal_composition': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gobind/ros2_ws/install/ros2_course_python:/opt/ros/humble /usr/bin/cmake --install /home/gobind/ros2_ws/build/examples_rclcpp_minimal_composition
+[6.871s] -- Install configuration: ""
+[6.871s] -- Execute custom install script
+[6.871s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/library_path.sh
+[6.872s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/library_path.dsv
+[6.872s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_composition/lib/libcomposition_nodes.so
+[6.872s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_composition/lib/examples_rclcpp_minimal_composition/composition_publisher
+[6.872s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_composition/lib/examples_rclcpp_minimal_composition/composition_subscriber
+[6.872s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_composition/lib/examples_rclcpp_minimal_composition/composition_composed
+[6.873s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_composition/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_composition
+[6.873s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_composition/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_composition
+[6.873s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/ament_prefix_path.sh
+[6.873s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/ament_prefix_path.dsv
+[6.873s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/path.sh
+[6.873s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/path.dsv
+[6.874s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/local_setup.bash
+[6.874s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/local_setup.sh
+[6.874s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/local_setup.zsh
+[6.874s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/local_setup.dsv
+[6.879s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/package.dsv
+[6.880s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_composition/share/ament_index/resource_index/packages/examples_rclcpp_minimal_composition
+[6.880s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/cmake/examples_rclcpp_minimal_compositionConfig.cmake
+[6.880s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/cmake/examples_rclcpp_minimal_compositionConfig-version.cmake
+[6.880s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/package.xml
+[7.558s] Invoked command in '/home/gobind/ros2_ws/build/examples_rclcpp_minimal_composition' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gobind/ros2_ws/install/ros2_course_python:/opt/ros/humble /usr/bin/cmake --install /home/gobind/ros2_ws/build/examples_rclcpp_minimal_composition

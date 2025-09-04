@@ -1,0 +1,12 @@
+package.xml
+setup.cfg
+setup.py
+resource/ros2_course_python
+ros2_course_python/__init__.py
+ros2_course_python.egg-info/PKG-INFO
+ros2_course_python.egg-info/SOURCES.txt
+ros2_course_python.egg-info/dependency_links.txt
+ros2_course_python.egg-info/entry_points.txt
+ros2_course_python.egg-info/requires.txt
+ros2_course_python.egg-info/top_level.txt
+ros2_course_python.egg-info/zip-safe

@@ -1,0 +1,11 @@
+[31mCMake Error at CMakeLists.txt:25 (add_executable):
+  Cannot find source file:
+
+    not_composable.cpp
+
+[0m
+[31mCMake Error at CMakeLists.txt:25 (add_executable):
+  No SOURCES given to target: action_server_not_composable
+
+[0m
+[0mCMake Generate step failed.  Build files cannot be regenerated correctly.[0m

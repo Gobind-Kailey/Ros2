@@ -1,0 +1,20 @@
+[2.034s] Invoking command in '/home/gobind/ros2_ws/build/examples_rclpy_minimal_publisher': PYTHONPATH=/home/gobind/ros2_ws/build/examples_rclpy_minimal_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/gobind/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/gobind/ros2_ws/build/examples_rclpy_minimal_publisher/build --no-deps symlink_data
+[2.375s] running develop
+[2.515s] running egg_info
+[2.515s] writing examples_rclpy_minimal_publisher.egg-info/PKG-INFO
+[2.515s] writing dependency_links to examples_rclpy_minimal_publisher.egg-info/dependency_links.txt
+[2.515s] writing entry points to examples_rclpy_minimal_publisher.egg-info/entry_points.txt
+[2.515s] writing requirements to examples_rclpy_minimal_publisher.egg-info/requires.txt
+[2.515s] writing top-level names to examples_rclpy_minimal_publisher.egg-info/top_level.txt
+[2.518s] reading manifest file 'examples_rclpy_minimal_publisher.egg-info/SOURCES.txt'
+[2.519s] writing manifest file 'examples_rclpy_minimal_publisher.egg-info/SOURCES.txt'
+[2.519s] running build_ext
+[2.519s] Creating /home/gobind/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages/examples-rclpy-minimal-publisher.egg-link (link to .)
+[2.520s] Installing publisher_local_function script to /home/gobind/ros2_ws/install/examples_rclpy_minimal_publisher/lib/examples_rclpy_minimal_publisher
+[2.520s] Installing publisher_member_function script to /home/gobind/ros2_ws/install/examples_rclpy_minimal_publisher/lib/examples_rclpy_minimal_publisher
+[2.520s] Installing publisher_member_function_with_wait_for_all_acked script to /home/gobind/ros2_ws/install/examples_rclpy_minimal_publisher/lib/examples_rclpy_minimal_publisher
+[2.520s] Installing publisher_old_school script to /home/gobind/ros2_ws/install/examples_rclpy_minimal_publisher/lib/examples_rclpy_minimal_publisher
+[2.520s] 
+[2.520s] Installed /home/gobind/ros2_ws/build/examples_rclpy_minimal_publisher
+[2.520s] running symlink_data
+[2.564s] Invoked command in '/home/gobind/ros2_ws/build/examples_rclpy_minimal_publisher' returned '0': PYTHONPATH=/home/gobind/ros2_ws/build/examples_rclpy_minimal_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/gobind/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/gobind/ros2_ws/build/examples_rclpy_minimal_publisher/build --no-deps symlink_data

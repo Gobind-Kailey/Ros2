@@ -1,0 +1,66 @@
+[0.054s] Invoking command in '/home/gobind/ros2_ws/build/examples_rclcpp_minimal_publisher': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gobind/ros2_ws/install/ros2_course_python:/opt/ros/humble /usr/bin/cmake /home/gobind/ros2_ws/src/examples/rclcpp/topics/minimal_publisher -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/gobind/ros2_ws/install/examples_rclcpp_minimal_publisher
+[1.083s] -- The C compiler identification is GNU 11.4.0
+[1.083s] -- The CXX compiler identification is GNU 11.4.0
+[1.083s] -- Detecting C compiler ABI info
+[1.083s] -- Detecting C compiler ABI info - done
+[1.083s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.083s] -- Detecting C compile features
+[1.083s] -- Detecting C compile features - done
+[1.084s] -- Detecting CXX compiler ABI info
+[1.084s] -- Detecting CXX compiler ABI info - done
+[1.084s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.084s] -- Detecting CXX compile features
+[1.084s] -- Detecting CXX compile features - done
+[1.084s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.084s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.084s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.084s] -- Found rclcpp: 16.0.14 (/opt/ros/humble/share/rclcpp/cmake)
+[1.084s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.084s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.084s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.085s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.085s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.085s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.085s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.085s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.085s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.098s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.108s] -- Looking for pthread.h
+[1.218s] -- Looking for pthread.h - found
+[1.219s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.319s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.320s] -- Found Threads: TRUE  
+[1.392s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.509s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.511s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.512s] -- Configured cppcheck include dirs: 
+[1.514s] -- Configured cppcheck exclude dirs and/or files: 
+[1.514s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.515s] -- Configured cpplint exclude dirs and/or files: 
+[1.516s] -- Added test 'lint_cmake' to check CMake code style
+[1.518s] -- Added test 'uncrustify' to check C / C++ code style
+[1.518s] -- Configured uncrustify additional arguments: 
+[1.519s] -- Added test 'xmllint' to check XML markup files
+[1.522s] -- Configuring done
+[1.596s] -- Generating done
+[1.619s] -- Build files have been written to: /home/gobind/ros2_ws/build/examples_rclcpp_minimal_publisher
+[1.637s] Invoked command in '/home/gobind/ros2_ws/build/examples_rclcpp_minimal_publisher' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gobind/ros2_ws/install/ros2_course_python:/opt/ros/humble /usr/bin/cmake /home/gobind/ros2_ws/src/examples/rclcpp/topics/minimal_publisher -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/gobind/ros2_ws/install/examples_rclcpp_minimal_publisher
+[1.638s] Invoking command in '/home/gobind/ros2_ws/build/examples_rclcpp_minimal_publisher': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gobind/ros2_ws/install/ros2_course_python:/opt/ros/humble /usr/bin/cmake --build /home/gobind/ros2_ws/build/examples_rclcpp_minimal_publisher -- -j16 -l16
+[1.742s] [  8%] [32mBuilding CXX object CMakeFiles/publisher_lambda.dir/lambda.cpp.o[0m
+[1.759s] [ 16%] [32mBuilding CXX object CMakeFiles/publisher_member_function.dir/member_function.cpp.o[0m
+[1.759s] [ 25%] [32mBuilding CXX object CMakeFiles/publisher_member_function_with_unique_network_flow_endpoints.dir/member_function_with_unique_network_flow_endpoints.cpp.o[0m
+[1.760s] [ 33%] [32mBuilding CXX object CMakeFiles/publisher_wait_for_all_acked.dir/member_function_with_wait_for_all_acked.cpp.o[0m
+[1.779s] [ 41%] [32mBuilding CXX object CMakeFiles/publisher_not_composable.dir/not_composable.cpp.o[0m
+[1.787s] [ 50%] [32mBuilding CXX object CMakeFiles/publisher_member_function_with_type_adapter.dir/member_function_with_type_adapter.cpp.o[0m
+[8.571s] [ 58%] [32m[1mLinking CXX executable publisher_member_function_with_type_adapter[0m
+[8.862s] [ 66%] [32m[1mLinking CXX executable publisher_member_function[0m
+[8.935s] [ 66%] Built target publisher_member_function_with_type_adapter
+[9.006s] [ 75%] [32m[1mLinking CXX executable publisher_lambda[0m
+[9.130s] [ 75%] Built target publisher_member_function
+[9.204s] [ 83%] [32m[1mLinking CXX executable publisher_wait_for_all_acked[0m
+[9.237s] [ 83%] Built target publisher_lambda
+[9.323s] [ 91%] [32m[1mLinking CXX executable publisher_member_function_with_unique_network_flow_endpoints[0m
+[9.394s] [100%] [32m[1mLinking CXX executable publisher_not_composable[0m
+[9.394s] [100%] Built target publisher_wait_for_all_acked
+[9.516s] [100%] Built target publisher_member_function_with_unique_network_flow_endpoints
+[9.596s] [100%] Built target publisher_not_composable

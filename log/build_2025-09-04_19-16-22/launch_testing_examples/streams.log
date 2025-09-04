@@ -1,0 +1,22 @@
+[11.091s] Invoking command in '/home/gobind/ros2_ws/build/launch_testing_examples': PYTHONPATH=/home/gobind/ros2_ws/build/launch_testing_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/gobind/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/gobind/ros2_ws/build/launch_testing_examples/build --no-deps symlink_data
+[12.677s] running develop
+[12.678s] running egg_info
+[12.678s] creating launch_testing_examples.egg-info
+[12.678s] writing launch_testing_examples.egg-info/PKG-INFO
+[12.679s] writing dependency_links to launch_testing_examples.egg-info/dependency_links.txt
+[12.679s] writing requirements to launch_testing_examples.egg-info/requires.txt
+[12.679s] writing top-level names to launch_testing_examples.egg-info/top_level.txt
+[12.679s] writing manifest file 'launch_testing_examples.egg-info/SOURCES.txt'
+[12.679s] reading manifest file 'launch_testing_examples.egg-info/SOURCES.txt'
+[12.679s] writing manifest file 'launch_testing_examples.egg-info/SOURCES.txt'
+[12.679s] running build_ext
+[12.679s] Creating /home/gobind/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch-testing-examples.egg-link (link to .)
+[12.679s] 
+[12.679s] Installed /home/gobind/ros2_ws/build/launch_testing_examples
+[12.679s] running symlink_data
+[12.679s] creating /home/gobind/ros2_ws/install/launch_testing_examples/share/ament_index
+[12.679s] creating /home/gobind/ros2_ws/install/launch_testing_examples/share/ament_index/resource_index
+[12.680s] creating /home/gobind/ros2_ws/install/launch_testing_examples/share/ament_index/resource_index/packages
+[12.680s] symbolically linking /home/gobind/ros2_ws/build/launch_testing_examples/resource/launch_testing_examples -> /home/gobind/ros2_ws/install/launch_testing_examples/share/ament_index/resource_index/packages
+[12.680s] symbolically linking /home/gobind/ros2_ws/build/launch_testing_examples/package.xml -> /home/gobind/ros2_ws/install/launch_testing_examples/share/launch_testing_examples
+[12.726s] Invoked command in '/home/gobind/ros2_ws/build/launch_testing_examples' returned '0': PYTHONPATH=/home/gobind/ros2_ws/build/launch_testing_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/gobind/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/gobind/ros2_ws/build/launch_testing_examples/build --no-deps symlink_data

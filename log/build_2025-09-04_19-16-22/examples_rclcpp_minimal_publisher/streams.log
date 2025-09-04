@@ -1,0 +1,39 @@
+[0.066s] Invoking command in '/home/gobind/ros2_ws/build/examples_rclcpp_minimal_publisher': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gobind/ros2_ws/install/ros2_course_python:/opt/ros/humble /usr/bin/cmake --build /home/gobind/ros2_ws/build/examples_rclcpp_minimal_publisher -- -j16 -l16
+[4.457s] [35m[1mConsolidate compiler generated dependencies of target publisher_lambda[0m
+[4.457s] [35m[1mConsolidate compiler generated dependencies of target publisher_member_function[0m
+[4.457s] [35m[1mConsolidate compiler generated dependencies of target publisher_member_function_with_unique_network_flow_endpoints[0m
+[4.457s] [35m[1mConsolidate compiler generated dependencies of target publisher_wait_for_all_acked[0m
+[4.457s] [35m[1mConsolidate compiler generated dependencies of target publisher_not_composable[0m
+[4.457s] [35m[1mConsolidate compiler generated dependencies of target publisher_member_function_with_type_adapter[0m
+[4.458s] [ 16%] Built target publisher_member_function
+[4.458s] [ 33%] Built target publisher_lambda
+[4.458s] [ 50%] Built target publisher_member_function_with_type_adapter
+[4.458s] [ 66%] Built target publisher_wait_for_all_acked
+[4.458s] [ 83%] Built target publisher_member_function_with_unique_network_flow_endpoints
+[4.458s] [100%] Built target publisher_not_composable
+[4.562s] Invoked command in '/home/gobind/ros2_ws/build/examples_rclcpp_minimal_publisher' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gobind/ros2_ws/install/ros2_course_python:/opt/ros/humble /usr/bin/cmake --build /home/gobind/ros2_ws/build/examples_rclcpp_minimal_publisher -- -j16 -l16
+[4.565s] Invoking command in '/home/gobind/ros2_ws/build/examples_rclcpp_minimal_publisher': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gobind/ros2_ws/install/ros2_course_python:/opt/ros/humble /usr/bin/cmake --install /home/gobind/ros2_ws/build/examples_rclcpp_minimal_publisher
+[4.626s] -- Install configuration: ""
+[4.626s] -- Execute custom install script
+[4.626s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_lambda
+[4.651s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_member_function
+[4.681s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_member_function_with_type_adapter
+[4.751s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_member_function_with_unique_network_flow_endpoints
+[4.806s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_wait_for_all_acked
+[4.835s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_not_composable
+[4.900s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_publisher/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_publisher
+[4.945s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_publisher/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_publisher
+[4.982s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/environment/ament_prefix_path.sh
+[5.038s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/environment/ament_prefix_path.dsv
+[5.090s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/environment/path.sh
+[5.121s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/environment/path.dsv
+[5.172s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/local_setup.bash
+[5.215s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/local_setup.sh
+[5.265s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/local_setup.zsh
+[5.327s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/local_setup.dsv
+[5.356s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/package.dsv
+[5.408s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_publisher/share/ament_index/resource_index/packages/examples_rclcpp_minimal_publisher
+[5.438s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/cmake/examples_rclcpp_minimal_publisherConfig.cmake
+[5.474s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/cmake/examples_rclcpp_minimal_publisherConfig-version.cmake
+[5.520s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/package.xml
+[7.472s] Invoked command in '/home/gobind/ros2_ws/build/examples_rclcpp_minimal_publisher' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gobind/ros2_ws/install/ros2_course_python:/opt/ros/humble /usr/bin/cmake --install /home/gobind/ros2_ws/build/examples_rclcpp_minimal_publisher

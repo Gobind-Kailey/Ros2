@@ -1,0 +1,6 @@
+[01m[Kcc1plus:[m[K [01;31m[Kfatal error: [m[K/home/gobind/ros2_ws/src/examples/rclcpp/topics/minimal_publisher/not_composable.cpp: No such file or directory
+compilation terminated.
+gmake[2]: *** [CMakeFiles/publisher_not_composable.dir/build.make:76: CMakeFiles/publisher_not_composable.dir/not_composable.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:277: CMakeFiles/publisher_not_composable.dir/all] Error 2
+gmake[1]: *** Waiting for unfinished jobs....
+gmake: *** [Makefile:146: all] Error 2

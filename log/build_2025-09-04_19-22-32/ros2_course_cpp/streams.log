@@ -1,0 +1,5 @@
+[1.223s] Invoking command in '/home/gobind/ros2_ws/build/ros2_course_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gobind/ros2_ws/install/ros2_course_python:/opt/ros/humble /usr/bin/cmake --build /home/gobind/ros2_ws/build/ros2_course_cpp -- -j16 -l16
+[1.269s] [35m[1mConsolidate compiler generated dependencies of target talker[0m
+[1.288s] [ 50%] [32mBuilding CXX object CMakeFiles/talker.dir/src/talker.cpp.o[0m
+[4.905s] [100%] [32m[1mLinking CXX executable talker[0m
+[5.047s] [100%] Built target talker

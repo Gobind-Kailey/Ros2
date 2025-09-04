@@ -1,0 +1,46 @@
+[35m[1mConsolidate compiler generated dependencies of target talker[0m
+[35m[1mConsolidate compiler generated dependencies of target static_wait_set[0m
+[35m[1mConsolidate compiler generated dependencies of target wait_set_talker[0m
+[35m[1mConsolidate compiler generated dependencies of target wait_set[0m
+[35m[1mConsolidate compiler generated dependencies of target listener[0m
+[35m[1mConsolidate compiler generated dependencies of target thread_safe_wait_set[0m
+[35m[1mConsolidate compiler generated dependencies of target wait_set_random_order[0m
+[35m[1mConsolidate compiler generated dependencies of target executor_random_order[0m
+[35m[1mConsolidate compiler generated dependencies of target wait_set_listener[0m
+[35m[1mConsolidate compiler generated dependencies of target wait_set_topics_and_timer[0m
+[  8%] Built target talker
+[35m[1mConsolidate compiler generated dependencies of target wait_set_topics_with_different_rates[0m
+[ 16%] Built target wait_set
+[ 29%] [32mBuilding CXX object CMakeFiles/wait_set_topics_and_timer.dir/src/wait_set_topics_and_timer.cpp.o[0m
+[ 29%] Built target wait_set_talker
+[ 41%] Built target static_wait_set
+[ 45%] Built target wait_set_listener
+[ 54%] Built target listener
+[ 62%] Built target wait_set_random_order
+[ 70%] Built target thread_safe_wait_set
+[ 79%] Built target executor_random_order
+[ 87%] Built target wait_set_topics_with_different_rates
+[ 91%] [32mBuilding CXX object CMakeFiles/wait_set_composed.dir/src/wait_set_composed.cpp.o[0m
+[01m[K/home/gobind/ros2_ws/src/examples/rclcpp/wait_set/src/wait_set_topics_and_timer.cpp:[m[K In function ‘[01m[Kint32_t main(int32_t, char**)[m[K’:
+[01m[K/home/gobind/ros2_ws/src/examples/rclcpp/wait_set/src/wait_set_topics_and_timer.cpp:76:42:[m[K [01;31m[Kerror: [m[Kno matching function for call to ‘[01m[Krclcpp::TimerBase::execute_callback(bool&)[m[K’
+   76 |           [01;31m[Kone_off_timer->execute_callback(data)[m[K;
+      |           [01;31m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~[m[K
+In file included from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/callback_group.hpp:30[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/any_executable.hpp:20[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/memory_strategy.hpp:25[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/memory_strategies.hpp:18[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executor_options.hpp:20[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executor.hpp:37[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executors/multi_threaded_executor.hpp:25[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executors.hpp:21[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/rclcpp.hpp:155[m[K,
+                 from [01m[K/home/gobind/ros2_ws/src/examples/rclcpp/wait_set/src/wait_set_topics_and_timer.cpp:17[m[K:
+[01m[K/opt/ros/humble/include/rclcpp/rclcpp/timer.hpp:108:3:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Kvirtual void rclcpp::TimerBase::execute_callback()[m[K’
+  108 |   [01;36m[Kexecute_callback[m[K() = 0;
+      |   [01;36m[K^~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/humble/include/rclcpp/rclcpp/timer.hpp:108:3:[m[K [01;36m[Knote: [m[K  candidate expects 0 arguments, 1 provided
+[ 95%] [32m[1mLinking CXX executable wait_set_composed[0m
+[ 95%] Built target wait_set_composed
+gmake[2]: *** [CMakeFiles/wait_set_topics_and_timer.dir/build.make:76: CMakeFiles/wait_set_topics_and_timer.dir/src/wait_set_topics_and_timer.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:341: CMakeFiles/wait_set_topics_and_timer.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

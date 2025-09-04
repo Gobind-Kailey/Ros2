@@ -1,0 +1,18 @@
+[35m[1mConsolidate compiler generated dependencies of target wait_set_subscriber_library[0m
+[  8%] Built target subscriber_lambda
+[ 16%] Built target subscriber_member_function
+[ 25%] Built target subscriber_member_function_with_topic_statistics
+[ 29%] [32mBuilding CXX object CMakeFiles/wait_set_subscriber_library.dir/time_triggered_wait_set_subscriber.cpp.o[0m
+[ 37%] Built target subscriber_member_function_with_type_adapter
+[ 54%] Built target static_wait_set_subscriber
+[ 54%] Built target subscriber_member_function_with_unique_network_flow_endpoints
+[ 62%] Built target subscriber_not_composable
+[ 70%] Built target subscriber_content_filtering
+[ 79%] Built target wait_set_subscriber
+[ 87%] Built target time_triggered_wait_set_subscriber
+[01m[K/home/gobind/ros2_ws/src/examples/rclcpp/topics/minimal_subscriber/time_triggered_wait_set_subscriber.cpp:[m[K In member function ‘[01m[Kvoid TimeTriggeredWaitSetSubscriber::spin_wait_set()[m[K’:
+[01m[K/home/gobind/ros2_ws/src/examples/rclcpp/topics/minimal_subscriber/time_triggered_wait_set_subscriber.cpp:74:24:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kdata[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-variable-Wunused-variable]8;;[m[K]
+   74 |               if (auto [01;35m[Kdata[m[K = timer_->call()) {
+      |                        [01;35m[K^~~~[m[K
+[ 91%] [32m[1mLinking CXX shared library libwait_set_subscriber_library.so[0m
+[100%] Built target wait_set_subscriber_library

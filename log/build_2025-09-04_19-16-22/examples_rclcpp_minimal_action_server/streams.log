@@ -1,0 +1,58 @@
+[0.063s] Invoking command in '/home/gobind/ros2_ws/build/examples_rclcpp_minimal_action_server': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gobind/ros2_ws/install/ros2_course_python:/opt/ros/humble /usr/bin/cmake /home/gobind/ros2_ws/src/examples/rclcpp/actions/minimal_action_server -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/gobind/ros2_ws/install/examples_rclcpp_minimal_action_server
+[4.446s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[4.446s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[4.446s] -- Found example_interfaces: 0.9.3 (/opt/ros/humble/share/example_interfaces/cmake)
+[4.447s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[4.447s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[4.447s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[4.447s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[4.447s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[4.447s] -- Found rclcpp: 16.0.14 (/opt/ros/humble/share/rclcpp/cmake)
+[4.447s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[4.447s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[4.447s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[4.448s] -- Found rclcpp_action: 16.0.14 (/opt/ros/humble/share/rclcpp_action/cmake)
+[4.448s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[4.448s] -- Added test 'copyright' to check source files copyright and LICENSE
+[4.448s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[4.448s] -- Configured cppcheck include dirs: 
+[4.448s] -- Configured cppcheck exclude dirs and/or files: 
+[4.448s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[4.448s] -- Configured cpplint exclude dirs and/or files: 
+[4.448s] -- Added test 'lint_cmake' to check CMake code style
+[4.448s] -- Added test 'uncrustify' to check C / C++ code style
+[4.448s] -- Configured uncrustify additional arguments: 
+[4.448s] -- Added test 'xmllint' to check XML markup files
+[4.448s] -- Configuring done
+[4.448s] -- Generating done
+[4.449s] -- Build files have been written to: /home/gobind/ros2_ws/build/examples_rclcpp_minimal_action_server
+[4.586s] Invoked command in '/home/gobind/ros2_ws/build/examples_rclcpp_minimal_action_server' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gobind/ros2_ws/install/ros2_course_python:/opt/ros/humble /usr/bin/cmake /home/gobind/ros2_ws/src/examples/rclcpp/actions/minimal_action_server -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/gobind/ros2_ws/install/examples_rclcpp_minimal_action_server
+[4.589s] Invoking command in '/home/gobind/ros2_ws/build/examples_rclcpp_minimal_action_server': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gobind/ros2_ws/install/ros2_course_python:/opt/ros/humble /usr/bin/cmake --build /home/gobind/ros2_ws/build/examples_rclcpp_minimal_action_server -- -j16 -l16
+[5.140s] [ 25%] [32mBuilding CXX object CMakeFiles/action_server_not_composable.dir/not_composable.cpp.o[0m
+[5.141s] [ 50%] [32mBuilding CXX object CMakeFiles/action_server_member_functions.dir/member_functions.cpp.o[0m
+[23.172s] [ 75%] [32m[1mLinking CXX executable action_server_member_functions[0m
+[23.656s] [ 75%] Built target action_server_member_functions
+[24.064s] [100%] [32m[1mLinking CXX executable action_server_not_composable[0m
+[24.412s] [100%] Built target action_server_not_composable
+[24.454s] Invoked command in '/home/gobind/ros2_ws/build/examples_rclcpp_minimal_action_server' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gobind/ros2_ws/install/ros2_course_python:/opt/ros/humble /usr/bin/cmake --build /home/gobind/ros2_ws/build/examples_rclcpp_minimal_action_server -- -j16 -l16
+[24.467s] Invoking command in '/home/gobind/ros2_ws/build/examples_rclcpp_minimal_action_server': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gobind/ros2_ws/install/ros2_course_python:/opt/ros/humble /usr/bin/cmake --install /home/gobind/ros2_ws/build/examples_rclcpp_minimal_action_server
+[24.486s] -- Install configuration: ""
+[24.487s] -- Execute custom install script
+[24.488s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_action_server/lib/examples_rclcpp_minimal_action_server/action_server_not_composable
+[24.521s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_action_server/lib/examples_rclcpp_minimal_action_server/action_server_member_functions
+[24.549s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_action_server/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_action_server
+[24.584s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_action_server/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_action_server
+[24.615s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/environment/ament_prefix_path.sh
+[24.646s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/environment/ament_prefix_path.dsv
+[24.670s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/environment/path.sh
+[24.698s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/environment/path.dsv
+[24.731s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/local_setup.bash
+[24.755s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/local_setup.sh
+[24.789s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/local_setup.zsh
+[24.820s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/local_setup.dsv
+[24.841s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/package.dsv
+[24.857s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_action_server/share/ament_index/resource_index/packages/examples_rclcpp_minimal_action_server
+[24.873s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/cmake/examples_rclcpp_minimal_action_serverConfig.cmake
+[24.888s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/cmake/examples_rclcpp_minimal_action_serverConfig-version.cmake
+[24.906s] -- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/package.xml
+[24.929s] Invoked command in '/home/gobind/ros2_ws/build/examples_rclcpp_minimal_action_server' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gobind/ros2_ws/install/ros2_course_python:/opt/ros/humble /usr/bin/cmake --install /home/gobind/ros2_ws/build/examples_rclcpp_minimal_action_server

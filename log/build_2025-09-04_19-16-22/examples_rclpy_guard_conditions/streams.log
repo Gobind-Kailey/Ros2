@@ -1,0 +1,24 @@
+[7.431s] Invoking command in '/home/gobind/ros2_ws/build/examples_rclpy_guard_conditions': PYTHONPATH=/home/gobind/ros2_ws/build/examples_rclpy_guard_conditions/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/gobind/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/gobind/ros2_ws/build/examples_rclpy_guard_conditions/build --no-deps symlink_data
+[8.065s] running develop
+[13.421s] running egg_info
+[13.421s] creating examples_rclpy_guard_conditions.egg-info
+[13.421s] writing examples_rclpy_guard_conditions.egg-info/PKG-INFO
+[13.421s] writing dependency_links to examples_rclpy_guard_conditions.egg-info/dependency_links.txt
+[13.422s] writing entry points to examples_rclpy_guard_conditions.egg-info/entry_points.txt
+[13.422s] writing requirements to examples_rclpy_guard_conditions.egg-info/requires.txt
+[13.422s] writing top-level names to examples_rclpy_guard_conditions.egg-info/top_level.txt
+[13.422s] writing manifest file 'examples_rclpy_guard_conditions.egg-info/SOURCES.txt'
+[13.432s] reading manifest file 'examples_rclpy_guard_conditions.egg-info/SOURCES.txt'
+[13.433s] writing manifest file 'examples_rclpy_guard_conditions.egg-info/SOURCES.txt'
+[13.460s] running build_ext
+[13.461s] Creating /home/gobind/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages/examples-rclpy-guard-conditions.egg-link (link to .)
+[13.462s] Installing trigger_guard_condition script to /home/gobind/ros2_ws/install/examples_rclpy_guard_conditions/lib/examples_rclpy_guard_conditions
+[13.463s] 
+[13.464s] Installed /home/gobind/ros2_ws/build/examples_rclpy_guard_conditions
+[13.464s] running symlink_data
+[13.476s] creating /home/gobind/ros2_ws/install/examples_rclpy_guard_conditions/share/ament_index
+[13.477s] creating /home/gobind/ros2_ws/install/examples_rclpy_guard_conditions/share/ament_index/resource_index
+[13.477s] creating /home/gobind/ros2_ws/install/examples_rclpy_guard_conditions/share/ament_index/resource_index/packages
+[13.477s] symbolically linking /home/gobind/ros2_ws/build/examples_rclpy_guard_conditions/resource/examples_rclpy_guard_conditions -> /home/gobind/ros2_ws/install/examples_rclpy_guard_conditions/share/ament_index/resource_index/packages
+[13.477s] symbolically linking /home/gobind/ros2_ws/build/examples_rclpy_guard_conditions/package.xml -> /home/gobind/ros2_ws/install/examples_rclpy_guard_conditions/share/examples_rclpy_guard_conditions
+[16.817s] Invoked command in '/home/gobind/ros2_ws/build/examples_rclpy_guard_conditions' returned '0': PYTHONPATH=/home/gobind/ros2_ws/build/examples_rclpy_guard_conditions/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/gobind/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/gobind/ros2_ws/build/examples_rclpy_guard_conditions/build --no-deps symlink_data

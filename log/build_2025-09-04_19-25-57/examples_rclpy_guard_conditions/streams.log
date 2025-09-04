@@ -1,0 +1,17 @@
+[2.596s] Invoking command in '/home/gobind/ros2_ws/build/examples_rclpy_guard_conditions': PYTHONPATH=/home/gobind/ros2_ws/build/examples_rclpy_guard_conditions/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/gobind/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/gobind/ros2_ws/build/examples_rclpy_guard_conditions/build --no-deps symlink_data
+[2.936s] running develop
+[3.101s] running egg_info
+[3.101s] writing examples_rclpy_guard_conditions.egg-info/PKG-INFO
+[3.101s] writing dependency_links to examples_rclpy_guard_conditions.egg-info/dependency_links.txt
+[3.101s] writing entry points to examples_rclpy_guard_conditions.egg-info/entry_points.txt
+[3.101s] writing requirements to examples_rclpy_guard_conditions.egg-info/requires.txt
+[3.101s] writing top-level names to examples_rclpy_guard_conditions.egg-info/top_level.txt
+[3.103s] reading manifest file 'examples_rclpy_guard_conditions.egg-info/SOURCES.txt'
+[3.104s] writing manifest file 'examples_rclpy_guard_conditions.egg-info/SOURCES.txt'
+[3.105s] running build_ext
+[3.105s] Creating /home/gobind/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages/examples-rclpy-guard-conditions.egg-link (link to .)
+[3.106s] Installing trigger_guard_condition script to /home/gobind/ros2_ws/install/examples_rclpy_guard_conditions/lib/examples_rclpy_guard_conditions
+[3.106s] 
+[3.107s] Installed /home/gobind/ros2_ws/build/examples_rclpy_guard_conditions
+[3.107s] running symlink_data
+[3.153s] Invoked command in '/home/gobind/ros2_ws/build/examples_rclpy_guard_conditions' returned '0': PYTHONPATH=/home/gobind/ros2_ws/build/examples_rclpy_guard_conditions/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/gobind/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/gobind/ros2_ws/build/examples_rclpy_guard_conditions/build --no-deps symlink_data

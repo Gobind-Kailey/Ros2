@@ -1,0 +1,5 @@
+[0.072s] Invoking command in '/home/gobind/ros2_ws/build/examples_rclcpp_minimal_timer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gobind/ros2_ws/install/ros2_course_python:/opt/ros/humble /usr/bin/cmake --build /home/gobind/ros2_ws/build/examples_rclcpp_minimal_timer -- -j16 -l16
+[0.768s] [ 50%] Built target timer_lambda
+[0.768s] [100%] Built target timer_member_function
+[1.027s] Invoked command in '/home/gobind/ros2_ws/build/examples_rclcpp_minimal_timer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gobind/ros2_ws/install/ros2_course_python:/opt/ros/humble /usr/bin/cmake --build /home/gobind/ros2_ws/build/examples_rclcpp_minimal_timer -- -j16 -l16
+[1.030s] Invoking command in '/home/gobind/ros2_ws/build/examples_rclcpp_minimal_timer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gobind/ros2_ws/install/ros2_course_python:/opt/ros/humble /usr/bin/cmake --install /home/gobind/ros2_ws/build/examples_rclcpp_minimal_timer

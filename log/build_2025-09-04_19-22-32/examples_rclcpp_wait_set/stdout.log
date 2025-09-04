@@ -1,0 +1,14 @@
+[35m[1mConsolidate compiler generated dependencies of target wait_set_topics_and_timer[0m
+[  8%] Built target wait_set_talker
+[ 16%] Built target listener
+[ 25%] Built target talker
+[ 33%] Built target executor_random_order
+[ 45%] Built target static_wait_set
+[ 50%] Built target thread_safe_wait_set
+[ 58%] Built target wait_set
+[ 75%] Built target wait_set_random_order
+[ 75%] Built target wait_set_listener
+[ 79%] [32mBuilding CXX object CMakeFiles/wait_set_topics_and_timer.dir/src/wait_set_topics_and_timer.cpp.o[0m
+[ 87%] Built target wait_set_topics_with_different_rates
+[35m[1mConsolidate compiler generated dependencies of target wait_set_composed[0m
+[ 95%] Built target wait_set_composed

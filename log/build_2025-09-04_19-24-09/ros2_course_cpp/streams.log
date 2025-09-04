@@ -1,0 +1,24 @@
+[1.254s] Invoking command in '/home/gobind/ros2_ws/build/ros2_course_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gobind/ros2_ws/install/ros2_course_python:/opt/ros/humble /usr/bin/cmake --build /home/gobind/ros2_ws/build/ros2_course_cpp -- -j16 -l16
+[1.452s] [35m[1mConsolidate compiler generated dependencies of target talker[0m
+[1.452s] [100%] Built target talker
+[1.469s] Invoked command in '/home/gobind/ros2_ws/build/ros2_course_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gobind/ros2_ws/install/ros2_course_python:/opt/ros/humble /usr/bin/cmake --build /home/gobind/ros2_ws/build/ros2_course_cpp -- -j16 -l16
+[1.471s] Invoking command in '/home/gobind/ros2_ws/build/ros2_course_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gobind/ros2_ws/install/ros2_course_python:/opt/ros/humble /usr/bin/cmake --install /home/gobind/ros2_ws/build/ros2_course_cpp
+[1.481s] -- Install configuration: ""
+[1.482s] -- Execute custom install script
+[1.482s] -- Up-to-date symlink: /home/gobind/ros2_ws/install/ros2_course_cpp/lib/ros2_course_cpp/talker
+[1.482s] -- Up-to-date symlink: /home/gobind/ros2_ws/install/ros2_course_cpp/share/ament_index/resource_index/package_run_dependencies/ros2_course_cpp
+[1.482s] -- Up-to-date symlink: /home/gobind/ros2_ws/install/ros2_course_cpp/share/ament_index/resource_index/parent_prefix_path/ros2_course_cpp
+[1.483s] -- Up-to-date symlink: /home/gobind/ros2_ws/install/ros2_course_cpp/share/ros2_course_cpp/environment/ament_prefix_path.sh
+[1.483s] -- Up-to-date symlink: /home/gobind/ros2_ws/install/ros2_course_cpp/share/ros2_course_cpp/environment/ament_prefix_path.dsv
+[1.483s] -- Up-to-date symlink: /home/gobind/ros2_ws/install/ros2_course_cpp/share/ros2_course_cpp/environment/path.sh
+[1.483s] -- Up-to-date symlink: /home/gobind/ros2_ws/install/ros2_course_cpp/share/ros2_course_cpp/environment/path.dsv
+[1.483s] -- Up-to-date symlink: /home/gobind/ros2_ws/install/ros2_course_cpp/share/ros2_course_cpp/local_setup.bash
+[1.484s] -- Up-to-date symlink: /home/gobind/ros2_ws/install/ros2_course_cpp/share/ros2_course_cpp/local_setup.sh
+[1.484s] -- Up-to-date symlink: /home/gobind/ros2_ws/install/ros2_course_cpp/share/ros2_course_cpp/local_setup.zsh
+[1.484s] -- Up-to-date symlink: /home/gobind/ros2_ws/install/ros2_course_cpp/share/ros2_course_cpp/local_setup.dsv
+[1.484s] -- Up-to-date symlink: /home/gobind/ros2_ws/install/ros2_course_cpp/share/ros2_course_cpp/package.dsv
+[1.484s] -- Up-to-date symlink: /home/gobind/ros2_ws/install/ros2_course_cpp/share/ament_index/resource_index/packages/ros2_course_cpp
+[1.485s] -- Up-to-date symlink: /home/gobind/ros2_ws/install/ros2_course_cpp/share/ros2_course_cpp/cmake/ros2_course_cppConfig.cmake
+[1.485s] -- Up-to-date symlink: /home/gobind/ros2_ws/install/ros2_course_cpp/share/ros2_course_cpp/cmake/ros2_course_cppConfig-version.cmake
+[1.485s] -- Up-to-date symlink: /home/gobind/ros2_ws/install/ros2_course_cpp/share/ros2_course_cpp/package.xml
+[1.493s] Invoked command in '/home/gobind/ros2_ws/build/ros2_course_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gobind/ros2_ws/install/ros2_course_python:/opt/ros/humble /usr/bin/cmake --install /home/gobind/ros2_ws/build/ros2_course_cpp

@@ -1,0 +1,14 @@
+[0.077s] Invoking command in '/home/gobind/ros2_ws/build/examples_rclcpp_minimal_publisher': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gobind/ros2_ws/install/ros2_course_python:/opt/ros/humble /usr/bin/cmake --build /home/gobind/ros2_ws/build/examples_rclcpp_minimal_publisher -- -j16 -l16
+[0.780s] [ 16%] Built target publisher_lambda
+[0.780s] [ 33%] Built target publisher_member_function_with_unique_network_flow_endpoints
+[0.780s] [ 41%] [32mBuilding CXX object CMakeFiles/publisher_not_composable.dir/not_composable.cpp.o[0m
+[0.780s] [ 58%] Built target publisher_member_function
+[0.780s] [ 75%] Built target publisher_member_function_with_type_adapter
+[0.780s] [ 91%] Built target publisher_wait_for_all_acked
+[0.780s] [01m[Kcc1plus:[m[K [01;31m[Kfatal error: [m[K/home/gobind/ros2_ws/src/examples/rclcpp/topics/minimal_publisher/not_composable.cpp: No such file or directory
+[0.780s] compilation terminated.
+[0.780s] gmake[2]: *** [CMakeFiles/publisher_not_composable.dir/build.make:76: CMakeFiles/publisher_not_composable.dir/not_composable.cpp.o] Error 1
+[0.781s] gmake[1]: *** [CMakeFiles/Makefile2:277: CMakeFiles/publisher_not_composable.dir/all] Error 2
+[0.781s] gmake[1]: *** Waiting for unfinished jobs....
+[0.781s] gmake: *** [Makefile:146: all] Error 2
+[1.019s] Invoked command in '/home/gobind/ros2_ws/build/examples_rclcpp_minimal_publisher' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gobind/ros2_ws/install/ros2_course_python:/opt/ros/humble /usr/bin/cmake --build /home/gobind/ros2_ws/build/examples_rclcpp_minimal_publisher -- -j16 -l16

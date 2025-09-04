@@ -1,0 +1,10 @@
+/home/gobind/ros2_ws/build/ros2_course_cpp/CMakeFiles/uninstall.dir
+/home/gobind/ros2_ws/build/ros2_course_cpp/CMakeFiles/ros2_course_cpp_uninstall.dir
+/home/gobind/ros2_ws/build/ros2_course_cpp/CMakeFiles/talker.dir
+/home/gobind/ros2_ws/build/ros2_course_cpp/CMakeFiles/test.dir
+/home/gobind/ros2_ws/build/ros2_course_cpp/CMakeFiles/edit_cache.dir
+/home/gobind/ros2_ws/build/ros2_course_cpp/CMakeFiles/rebuild_cache.dir
+/home/gobind/ros2_ws/build/ros2_course_cpp/CMakeFiles/list_install_components.dir
+/home/gobind/ros2_ws/build/ros2_course_cpp/CMakeFiles/install.dir
+/home/gobind/ros2_ws/build/ros2_course_cpp/CMakeFiles/install/local.dir
+/home/gobind/ros2_ws/build/ros2_course_cpp/CMakeFiles/install/strip.dir

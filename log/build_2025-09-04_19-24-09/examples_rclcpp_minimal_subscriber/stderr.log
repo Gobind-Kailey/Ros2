@@ -1,0 +1,4 @@
+[01m[K/home/gobind/ros2_ws/src/examples/rclcpp/topics/minimal_subscriber/time_triggered_wait_set_subscriber.cpp:[m[K In member function ‘[01m[Kvoid TimeTriggeredWaitSetSubscriber::spin_wait_set()[m[K’:
+[01m[K/home/gobind/ros2_ws/src/examples/rclcpp/topics/minimal_subscriber/time_triggered_wait_set_subscriber.cpp:74:24:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kdata[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-variable-Wunused-variable]8;;[m[K]
+   74 |               if (auto [01;35m[Kdata[m[K = timer_->call()) {
+      |                        [01;35m[K^~~~[m[K

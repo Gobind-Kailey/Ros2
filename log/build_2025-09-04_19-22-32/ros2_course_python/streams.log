@@ -1,0 +1,16 @@
+[1.886s] Invoking command in '/home/gobind/ros2_ws/build/ros2_course_python': PYTHONPATH=/home/gobind/ros2_ws/build/ros2_course_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/gobind/ros2_ws/install/ros2_course_python/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/gobind/ros2_ws/build/ros2_course_python/build --no-deps symlink_data
+[2.182s] running develop
+[2.321s] running egg_info
+[2.321s] writing ros2_course_python.egg-info/PKG-INFO
+[2.321s] writing dependency_links to ros2_course_python.egg-info/dependency_links.txt
+[2.321s] writing entry points to ros2_course_python.egg-info/entry_points.txt
+[2.322s] writing requirements to ros2_course_python.egg-info/requires.txt
+[2.322s] writing top-level names to ros2_course_python.egg-info/top_level.txt
+[2.323s] reading manifest file 'ros2_course_python.egg-info/SOURCES.txt'
+[2.324s] writing manifest file 'ros2_course_python.egg-info/SOURCES.txt'
+[2.325s] running build_ext
+[2.325s] Creating /home/gobind/ros2_ws/install/ros2_course_python/lib/python3.10/site-packages/ros2-course-python.egg-link (link to .)
+[2.326s] 
+[2.326s] Installed /home/gobind/ros2_ws/build/ros2_course_python
+[2.327s] running symlink_data
+[2.375s] Invoked command in '/home/gobind/ros2_ws/build/ros2_course_python' returned '0': PYTHONPATH=/home/gobind/ros2_ws/build/ros2_course_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/gobind/ros2_ws/install/ros2_course_python/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/gobind/ros2_ws/build/ros2_course_python/build --no-deps symlink_data

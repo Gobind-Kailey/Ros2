@@ -1,0 +1,45 @@
+[35m[1mConsolidate compiler generated dependencies of target wait_set_topics_and_timer[0m
+[  8%] Built target wait_set
+[ 16%] Built target wait_set_listener
+[ 20%] [32mBuilding CXX object CMakeFiles/wait_set_topics_and_timer.dir/src/wait_set_topics_and_timer.cpp.o[0m
+[ 29%] Built target listener
+[ 37%] Built target thread_safe_wait_set
+[ 45%] Built target talker
+[ 62%] Built target wait_set_talker
+[ 62%] Built target executor_random_order
+[ 79%] Built target wait_set_random_order
+[ 79%] Built target static_wait_set
+[ 87%] Built target wait_set_topics_with_different_rates
+[ 95%] Built target wait_set_composed
+[100%] [32m[1mLinking CXX executable wait_set_topics_and_timer[0m
+[100%] Built target wait_set_topics_and_timer
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_talker
+-- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_listener
+-- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_wait_set/lib/libtalker.so
+-- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_wait_set/lib/liblistener.so
+-- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set
+-- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/static_wait_set
+-- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/thread_safe_wait_set
+-- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_topics_and_timer
+-- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_random_order
+-- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/executor_random_order
+-- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_topics_with_different_rates
+-- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_composed
+-- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_wait_set
+-- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_wait_set
+-- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/ament_prefix_path.sh
+-- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/ament_prefix_path.dsv
+-- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/path.sh
+-- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/path.dsv
+-- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.bash
+-- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.sh
+-- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.zsh
+-- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.dsv
+-- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/package.dsv
+-- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/packages/examples_rclcpp_wait_set
+-- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/rclcpp_components/examples_rclcpp_wait_set
+-- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/cmake/examples_rclcpp_wait_setConfig.cmake
+-- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/cmake/examples_rclcpp_wait_setConfig-version.cmake
+-- Symlinking: /home/gobind/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/package.xml
