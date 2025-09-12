@@ -1,0 +1,18 @@
+[0.526s] Invoking command in '/home/gobind/cs460_ws/build/ros2_motion_python': PYTHONPATH=/home/gobind/cs460_ws/build/ros2_motion_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/gobind/cs460_ws/install/ros2_motion_python/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/gobind/cs460_ws/build/ros2_motion_python/build --no-deps symlink_data --force
+[0.735s] running develop
+[0.858s] running egg_info
+[0.859s] writing ros2_motion_python.egg-info/PKG-INFO
+[0.859s] writing dependency_links to ros2_motion_python.egg-info/dependency_links.txt
+[0.859s] writing entry points to ros2_motion_python.egg-info/entry_points.txt
+[0.859s] writing requirements to ros2_motion_python.egg-info/requires.txt
+[0.859s] writing top-level names to ros2_motion_python.egg-info/top_level.txt
+[0.860s] reading manifest file 'ros2_motion_python.egg-info/SOURCES.txt'
+[0.861s] writing manifest file 'ros2_motion_python.egg-info/SOURCES.txt'
+[0.862s] running build_ext
+[0.862s] Creating /home/gobind/cs460_ws/install/ros2_motion_python/lib/python3.10/site-packages/ros2-motion-python.egg-link (link to .)
+[0.863s] 
+[0.863s] Installed /home/gobind/cs460_ws/build/ros2_motion_python
+[0.863s] running symlink_data
+[0.864s] symbolically linking /home/gobind/cs460_ws/build/ros2_motion_python/resource/ros2_motion_python -> /home/gobind/cs460_ws/install/ros2_motion_python/share/ament_index/resource_index/packages
+[0.864s] symbolically linking /home/gobind/cs460_ws/build/ros2_motion_python/package.xml -> /home/gobind/cs460_ws/install/ros2_motion_python/share/ros2_motion_python
+[0.889s] Invoked command in '/home/gobind/cs460_ws/build/ros2_motion_python' returned '0': PYTHONPATH=/home/gobind/cs460_ws/build/ros2_motion_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/gobind/cs460_ws/install/ros2_motion_python/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/gobind/cs460_ws/build/ros2_motion_python/build --no-deps symlink_data --force

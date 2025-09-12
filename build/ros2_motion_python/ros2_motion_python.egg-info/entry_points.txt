@@ -1,0 +1,3 @@
+[console_scripts]
+mover = ros2_motion_python.simple_turtlesim_motion:main
+

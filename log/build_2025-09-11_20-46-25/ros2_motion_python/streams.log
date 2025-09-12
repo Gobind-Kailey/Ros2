@@ -1,0 +1,33 @@
+[0.477s] Invoking command in '/home/gobind/cs460_ws/src/ros2_motion_python': PYTHONPATH=/home/gobind/cs460_ws/build/ros2_motion_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/gobind/cs460_ws/install/ros2_motion_python/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros2_motion_python build --build-base /home/gobind/cs460_ws/build/ros2_motion_python/build install --record /home/gobind/cs460_ws/build/ros2_motion_python/install.log --single-version-externally-managed install_data
+[0.665s] running egg_info
+[0.666s] creating ../../build/ros2_motion_python/ros2_motion_python.egg-info
+[0.666s] writing ../../build/ros2_motion_python/ros2_motion_python.egg-info/PKG-INFO
+[0.667s] writing dependency_links to ../../build/ros2_motion_python/ros2_motion_python.egg-info/dependency_links.txt
+[0.667s] writing entry points to ../../build/ros2_motion_python/ros2_motion_python.egg-info/entry_points.txt
+[0.667s] writing requirements to ../../build/ros2_motion_python/ros2_motion_python.egg-info/requires.txt
+[0.667s] writing top-level names to ../../build/ros2_motion_python/ros2_motion_python.egg-info/top_level.txt
+[0.667s] writing manifest file '../../build/ros2_motion_python/ros2_motion_python.egg-info/SOURCES.txt'
+[0.668s] reading manifest file '../../build/ros2_motion_python/ros2_motion_python.egg-info/SOURCES.txt'
+[0.669s] writing manifest file '../../build/ros2_motion_python/ros2_motion_python.egg-info/SOURCES.txt'
+[0.669s] running build
+[0.669s] running build_py
+[0.669s] creating /home/gobind/cs460_ws/build/ros2_motion_python/build
+[0.669s] creating /home/gobind/cs460_ws/build/ros2_motion_python/build/lib
+[0.670s] creating /home/gobind/cs460_ws/build/ros2_motion_python/build/lib/ros2_motion_python
+[0.670s] copying ros2_motion_python/__init__.py -> /home/gobind/cs460_ws/build/ros2_motion_python/build/lib/ros2_motion_python
+[0.670s] running install
+[0.670s] running install_lib
+[0.670s] creating /home/gobind/cs460_ws/install/ros2_motion_python/lib/python3.10/site-packages/ros2_motion_python
+[0.670s] copying /home/gobind/cs460_ws/build/ros2_motion_python/build/lib/ros2_motion_python/__init__.py -> /home/gobind/cs460_ws/install/ros2_motion_python/lib/python3.10/site-packages/ros2_motion_python
+[0.671s] byte-compiling /home/gobind/cs460_ws/install/ros2_motion_python/lib/python3.10/site-packages/ros2_motion_python/__init__.py to __init__.cpython-310.pyc
+[0.671s] running install_data
+[0.671s] creating /home/gobind/cs460_ws/install/ros2_motion_python/share/ament_index
+[0.671s] creating /home/gobind/cs460_ws/install/ros2_motion_python/share/ament_index/resource_index
+[0.671s] creating /home/gobind/cs460_ws/install/ros2_motion_python/share/ament_index/resource_index/packages
+[0.671s] copying resource/ros2_motion_python -> /home/gobind/cs460_ws/install/ros2_motion_python/share/ament_index/resource_index/packages
+[0.671s] copying package.xml -> /home/gobind/cs460_ws/install/ros2_motion_python/share/ros2_motion_python
+[0.671s] running install_egg_info
+[0.672s] Copying ../../build/ros2_motion_python/ros2_motion_python.egg-info to /home/gobind/cs460_ws/install/ros2_motion_python/lib/python3.10/site-packages/ros2_motion_python-0.0.0-py3.10.egg-info
+[0.673s] running install_scripts
+[0.690s] writing list of installed files to '/home/gobind/cs460_ws/build/ros2_motion_python/install.log'
+[0.712s] Invoked command in '/home/gobind/cs460_ws/src/ros2_motion_python' returned '0': PYTHONPATH=/home/gobind/cs460_ws/build/ros2_motion_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/gobind/cs460_ws/install/ros2_motion_python/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros2_motion_python build --build-base /home/gobind/cs460_ws/build/ros2_motion_python/build install --record /home/gobind/cs460_ws/build/ros2_motion_python/install.log --single-version-externally-managed install_data

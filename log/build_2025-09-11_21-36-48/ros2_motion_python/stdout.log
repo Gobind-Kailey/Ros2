@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing ros2_motion_python.egg-info/PKG-INFO
+writing dependency_links to ros2_motion_python.egg-info/dependency_links.txt
+writing entry points to ros2_motion_python.egg-info/entry_points.txt
+writing requirements to ros2_motion_python.egg-info/requires.txt
+writing top-level names to ros2_motion_python.egg-info/top_level.txt
+reading manifest file 'ros2_motion_python.egg-info/SOURCES.txt'
+writing manifest file 'ros2_motion_python.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/gobind/cs460_ws/install/ros2_motion_python/lib/python3.10/site-packages/ros2-motion-python.egg-link (link to .)
+
+Installed /home/gobind/cs460_ws/build/ros2_motion_python
+running symlink_data
+symbolically linking /home/gobind/cs460_ws/build/ros2_motion_python/resource/ros2_motion_python -> /home/gobind/cs460_ws/install/ros2_motion_python/share/ament_index/resource_index/packages
+symbolically linking /home/gobind/cs460_ws/build/ros2_motion_python/package.xml -> /home/gobind/cs460_ws/install/ros2_motion_python/share/ros2_motion_python

@@ -1,0 +1,1 @@
+/home/gobind/cs460_ws/build/ros2_motion_cpp/ament_cmake_environment_hooks/local_setup.sh
