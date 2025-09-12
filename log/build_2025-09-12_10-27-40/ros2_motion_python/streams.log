@@ -1,0 +1,30 @@
+[0.543s] Invoking command in '/home/gobind/cs460_ws/src/ros2_motion_python': PYTHONPATH=/home/gobind/cs460_ws/build/ros2_motion_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/gobind/cs460_ws/install/ros2_motion_python/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros2_motion_python build --build-base /home/gobind/cs460_ws/build/ros2_motion_python/build install --record /home/gobind/cs460_ws/build/ros2_motion_python/install.log --single-version-externally-managed install_data
+[0.725s] running egg_info
+[0.725s] writing ../../build/ros2_motion_python/ros2_motion_python.egg-info/PKG-INFO
+[0.725s] writing dependency_links to ../../build/ros2_motion_python/ros2_motion_python.egg-info/dependency_links.txt
+[0.725s] writing entry points to ../../build/ros2_motion_python/ros2_motion_python.egg-info/entry_points.txt
+[0.726s] writing requirements to ../../build/ros2_motion_python/ros2_motion_python.egg-info/requires.txt
+[0.726s] writing top-level names to ../../build/ros2_motion_python/ros2_motion_python.egg-info/top_level.txt
+[0.727s] reading manifest file '../../build/ros2_motion_python/ros2_motion_python.egg-info/SOURCES.txt'
+[0.728s] writing manifest file '../../build/ros2_motion_python/ros2_motion_python.egg-info/SOURCES.txt'
+[0.728s] running build
+[0.728s] running build_py
+[0.729s] copying ros2_motion_python/RobotPose.py -> /home/gobind/cs460_ws/build/ros2_motion_python/build/lib/ros2_motion_python
+[0.729s] copying ros2_motion_python/clean.py -> /home/gobind/cs460_ws/build/ros2_motion_python/build/lib/ros2_motion_python
+[0.729s] copying ros2_motion_python/simple_turtlesim_motion.py -> /home/gobind/cs460_ws/build/ros2_motion_python/build/lib/ros2_motion_python
+[0.729s] running install
+[0.729s] running install_lib
+[0.729s] copying /home/gobind/cs460_ws/build/ros2_motion_python/build/lib/ros2_motion_python/RobotPose.py -> /home/gobind/cs460_ws/install/ros2_motion_python/lib/python3.10/site-packages/ros2_motion_python
+[0.730s] copying /home/gobind/cs460_ws/build/ros2_motion_python/build/lib/ros2_motion_python/clean.py -> /home/gobind/cs460_ws/install/ros2_motion_python/lib/python3.10/site-packages/ros2_motion_python
+[0.730s] copying /home/gobind/cs460_ws/build/ros2_motion_python/build/lib/ros2_motion_python/simple_turtlesim_motion.py -> /home/gobind/cs460_ws/install/ros2_motion_python/lib/python3.10/site-packages/ros2_motion_python
+[0.730s] byte-compiling /home/gobind/cs460_ws/install/ros2_motion_python/lib/python3.10/site-packages/ros2_motion_python/RobotPose.py to RobotPose.cpython-310.pyc
+[0.730s] byte-compiling /home/gobind/cs460_ws/install/ros2_motion_python/lib/python3.10/site-packages/ros2_motion_python/clean.py to clean.cpython-310.pyc
+[0.732s] byte-compiling /home/gobind/cs460_ws/install/ros2_motion_python/lib/python3.10/site-packages/ros2_motion_python/simple_turtlesim_motion.py to simple_turtlesim_motion.cpython-310.pyc
+[0.732s] running install_data
+[0.733s] running install_egg_info
+[0.734s] removing '/home/gobind/cs460_ws/install/ros2_motion_python/lib/python3.10/site-packages/ros2_motion_python-0.0.0-py3.10.egg-info' (and everything under it)
+[0.734s] Copying ../../build/ros2_motion_python/ros2_motion_python.egg-info to /home/gobind/cs460_ws/install/ros2_motion_python/lib/python3.10/site-packages/ros2_motion_python-0.0.0-py3.10.egg-info
+[0.735s] running install_scripts
+[0.752s] Installing mover script to /home/gobind/cs460_ws/install/ros2_motion_python/lib/ros2_motion_python
+[0.752s] writing list of installed files to '/home/gobind/cs460_ws/build/ros2_motion_python/install.log'
+[0.767s] Invoked command in '/home/gobind/cs460_ws/src/ros2_motion_python' returned '0': PYTHONPATH=/home/gobind/cs460_ws/build/ros2_motion_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/gobind/cs460_ws/install/ros2_motion_python/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros2_motion_python build --build-base /home/gobind/cs460_ws/build/ros2_motion_python/build install --record /home/gobind/cs460_ws/build/ros2_motion_python/install.log --single-version-externally-managed install_data

@@ -22,6 +22,7 @@ setup(
         'console_scripts': [
             # name of the script = package name.module(file) name:function name
             'mover=ros2_motion_python.simple_turtlesim_motion:main',
+            'cleaner=ros2_motion_python.clean:main',
         ],
     },
 )

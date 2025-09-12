@@ -1,3 +1,4 @@
 [console_scripts]
+cleaner = ros2_motion_python.clean:main
 mover = ros2_motion_python.simple_turtlesim_motion:main
 
